@@ -1468,6 +1468,20 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-aospextended-v6-6-t3942193"
          }
       ]
+   },
+   {
+      "name":"Zenfone Max Pro M2",
+      "brand":"Asus",
+      "codename":"X01BD",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Dhairy Tripathi [Hex_decimal16]",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=7602463",
+            "xda_thread":"https://forum.xda-developers.com/max-pro-m2/development/rom-aospextended-rom-v6-3-t3908905"
+         }
+      ]
    }
 ]
 
